@@ -1,0 +1,7 @@
+CMakeLists.txt
+Resources
+a.out
+cmake-build-debug
+input.txt
+out.txt
+thsh.c
